@@ -8,9 +8,7 @@ AI-powered immersive public speaking training platform that uses Deep Learning, 
 
 - 🎤 Real-time Speech Analysis
 - 🧠 AI-Generated Performance Feedback
-- 😀 Emotion & Facial Expression Detection
-- 👀 Eye Contact Tracking
-- 🧍 Posture & Body Language Analysis
+- 😀 Emotion Detection
 - 🔊 Voice Confidence & Tone Analysis
 - 🌍 Immersive Virtual Audience Simulation
 - 📊 Performance Reports & Analytics
